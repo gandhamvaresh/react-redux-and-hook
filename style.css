@@ -1,0 +1,20 @@
+h1, p {
+  font-family: Lato;
+}
+
+.link-style{
+  color: #61dafb;
+  text-decoration: none;
+}
+
+.ul-style{
+display: flex;
+flex-direction: row;
+}
+
+.li-style{
+  list-style-type: none;
+  width: 200px;
+  padding: 5px;
+  border: 1px solid gray;
+}
